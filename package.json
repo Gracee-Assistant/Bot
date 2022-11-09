@@ -1,0 +1,23 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gracee-Assistant/Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gracee-Assistant/Bot/issues"
+  },
+  "homepage": "https://github.com/Gracee-Assistant/Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
