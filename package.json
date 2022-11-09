@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Gracee-Assistant/Bot#readme",
   "dependencies": {
-    "discord.js": "^14.6.0"
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.7.2"
   }
 }
